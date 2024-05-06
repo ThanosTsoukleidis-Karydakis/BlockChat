@@ -9,6 +9,7 @@ algorithm is used for mining of new blocks).
 ## Collaborators  
 - [Athanasios Tsoukleidis-Karydakis](https://github.com/ThanosTsoukleidis-Karydakis)  (el19009)
 - [Dimitrios-David Gerokonstantis](https://github.com/DimitrisDavidGerokonstantis)  (el19209)
+- [Ioannis Karavgoustis](https://github.com/GiannisKaravgoustis) (el19847)
 
 In this repository, the following folders are included:  
 
