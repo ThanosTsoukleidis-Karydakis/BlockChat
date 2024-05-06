@@ -6,6 +6,10 @@ through which each user can make coin transactions or send messages to other par
 in the blockchain, as well as manage his stake and see how many blocks he has mined (a Proof-of-Stake  
 algorithm is used for mining of new blocks).  
 
+## Collaborators  
+- [Athanasios Tsoukleidis-Karydakis](https://github.com/ThanosTsoukleidis-Karydakis)  (el19009)
+- [Dimitrios-David Gerokonstantis](https://github.com/DimitrisDavidGerokonstantis)  (el19209)
+
 In this repository, the following folders are included:  
 
 - **src5Clients:** Contains the BlockChat code for 5 clients in our blockchain. It also contains detailed code comments.  
