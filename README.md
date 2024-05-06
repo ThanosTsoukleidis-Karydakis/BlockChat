@@ -52,8 +52,8 @@ requests. The frontend endpoints have only been added to the src5Clients use cas
 various screens of the application are presented.     
 
 ## Backend layout (Component Diagram - Activity Diagram):  
-Below, one can view the Component Diagram that describes how we have implemented each client and the communication  
-between the different clients (more information in our report).  
+Below, one can view the Component Diagram that describes how we have implemented each client and the  
+communication between the different clients (more information in our report).  
 
 ![image](https://github.com/ThanosTsoukleidis-Karydakis/BlockChat/assets/106911775/9378fba9-34ec-4937-949a-79cbbfb4226c)  
 
