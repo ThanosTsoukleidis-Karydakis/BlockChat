@@ -1,9 +1,10 @@
 # BlockChat
 The objective of this semester project was the creation of BlockChat: a blockchain-based platform through which  
 participants are able to exchange messages and coins (known as BlockChat coins - BCC).  
-Apart from the BlockChat implementation, we have also created a simple frontend application, through which each user  
-can make coin transactions or send messages to other participants in the blockchain, as well as manage his stake  
-and see how many blocks he has mined (a Proof-of-Stake algorithm is used for mining of new blocks).  
+Apart from the BlockChat implementation, we have also created a simple frontend application,  
+through which each user can make coin transactions or send messages to other participants   
+in the blockchain, as well as manage his stake and see how many blocks he has mined (a Proof-of-Stake  
+algorithm is used for mining of new blocks).  
 
 In this repository, the following folders are included:  
 
@@ -12,9 +13,9 @@ In this repository, the following folders are included:
 - **src10Clients:** Extension of the 5 clients implementation for 10 clients (more client files and chanegs in some parameters).
 It doesn't contain code comments, but the implementation is virtually the same to the one for 5 clients.  
 
-Note: The code runs perfectly on Linux systems, but requires some modifications to run on Windows. All threads need to be defined  
-in a new main function that is then being called to start a particular client. In addition, shared variables defined through managers  
-need to be defined simply as global variables. 
+Note: The code runs perfectly on Linux systems, but requires some modifications to run on Windows. All threads need  
+to be defined in a new main function that is then being called to start a particular client. In addition, shared  
+variables defined through managers need to be defined simply as global variables. 
 Example for User1.py: 
 
 ```
