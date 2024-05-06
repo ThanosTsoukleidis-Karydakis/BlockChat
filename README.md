@@ -44,7 +44,8 @@ in our report.
 
 - **frontend:** Contains the frontend of the application implemented with React.js. It is connected to the backend
 of the first user (similarly with the cli) and can be used for another user by changing the ports used by the axios
-requests. The frontend endpoints have only been added to the src5Clients use case.   
+requests. The frontend endpoints have only been added to the src5Clients use case. In the folder's README.md, the
+various screens of the application are presented.     
 
 ## Backend layout (Component Diagram - Activity Diagram):  
 Below, one can view the Component Diagram that describes how we have implemented each client and the communication  
@@ -54,3 +55,4 @@ between the different clients (more information in our report).
 Furthermore, the Activity Diagram presented below depicts fully all the available actions a user can make, alongside  
 everything that happens "behind the scenes".  
 
+![image](https://github.com/ThanosTsoukleidis-Karydakis/BlockChat/assets/106911775/e1d12cc9-c631-4f2a-9a14-d7ff493bf172)
