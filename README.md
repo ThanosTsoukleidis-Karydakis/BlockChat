@@ -34,9 +34,10 @@ if name == '__main__':
 
 Inside the src folders, one can find the cli folder that implements a cli as specified in the report. The cli  
 is only implemented for the first user: it can easily be implemented for other users by changing the ports in  
-the requests being made by the various cli commands. In order for the cli to work, one needs to follow the instructions  
-in the report. Using run.py file, all users can be started immediately and the cli#.py files read inputs from the given  
-trans#.txt files that are used to conduct the performance measurements presented in our report.  
+the requests being made by the various cli commands. In order for the cli to work, one needs to follow the  
+instructions in the report. Using run.py file, all users can be started immediately and the cli#.py files  
+read inputs from the given trans#.txt files that are used to conduct the performance measurements presented  
+in our report.  
 
 
 - **report:** Contains the report of our project, alongside the corresponding Latex code.
