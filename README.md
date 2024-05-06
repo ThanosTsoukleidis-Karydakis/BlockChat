@@ -5,6 +5,7 @@ Apart from the BlockChat implementation, we have also created a simple frontend 
 through which each user can make coin transactions or send messages to other participants   
 in the blockchain, as well as manage his stake and see how many blocks he has mined (a Proof-of-Stake  
 algorithm is used for mining of new blocks).  
+For the Backend we have used Python Flask, and for the Frontend React JS.  
 
 ## Collaborators  
 - [Athanasios Tsoukleidis-Karydakis](https://github.com/ThanosTsoukleidis-Karydakis)  (el19009)
